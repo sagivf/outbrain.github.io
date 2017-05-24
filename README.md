@@ -1,7 +1,9 @@
-# Sagiv Frankel
-
-[Github](https://github.com/sagivf)
-[Twitter](https://twitter.com/sagivfr)
+<a href="https://github.com/sagivf">
+    <image src="github.png"/>
+</a>
+<a href="https://twitter.com/sagivfr">
+    <image src="github.png"/>
+</a>
 
 ## Projects
 * [RethinkDB Job Queue UI](/rjq-ui)
