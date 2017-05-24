@@ -2,7 +2,7 @@
     <image src="github.png"/>
 </a>
 <a href="https://twitter.com/sagivfr">
-    <image src="github.png"/>
+    <image src="twitter.png"/>
 </a>
 
 ## Projects
