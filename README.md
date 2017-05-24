@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 <a href="https://github.com/sagivf">
     <image src="github.png"/>
 </a>
