@@ -11,6 +11,8 @@
 * [RethinkDB Job Queue UI](/rjq-ui)
 * [Leonardo](http://outbrain.github.io/Leonardo/)
 
-## Link
+## Links
 * [My Education List](/Education)
+
+<image src="me.jpg" style="width: 100%"/>
 
