@@ -22,5 +22,16 @@
 ## Links
 * [My Education List](/Education)
 
+### Cool Tools
+* [Image placeholder](https://dummyimage.com/)
+* [Image placeholder kittens](http://placekitten.com/)
+
+### Cool plugins
+* [the typing effect with a pure HTML interface](http://steven.codes/typerjs/)
+* [clipboard js](https://clipboardjs.com/)
+
+## Productivity
+* [I done this](https://idonethis.com/customers)
+
 <image src="me.jpg" style="width: 100%"/>
 
