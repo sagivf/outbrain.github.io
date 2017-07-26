@@ -1,7 +1,9 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <style>
-.page-header {
-    color: blue;
+@media screen and (min-width: 64em) {
+    .page-header {
+        padding: 2rem 6rem;
+    }
 }
 </style>
 <a href="https://github.com/sagivf">
