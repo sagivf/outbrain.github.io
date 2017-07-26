@@ -2,7 +2,9 @@
 <style>
 @media screen and (min-width: 64em) {
     .page-header {
-        padding: 2rem 6rem;
+        padding: 5rem 6rem;
+        background-image: url(http://bumpsbitsnbytes.com/wp-content/uploads/2013/02/240283-1920x1080.jpg);
+        background-size: cover;
     }
 }
 </style>
