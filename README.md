@@ -1,5 +1,9 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
+<style>
+.page-header {
+    color: blue;
+}
+</style>
 <a href="https://github.com/sagivf">
     <image src="github.png"/>
 </a>
